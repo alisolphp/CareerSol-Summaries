@@ -1,4 +1,4 @@
-[< Back to Main Repository](https://github.com/username/repository)
+[< Back to List of Sessions](https://github.com/username/repository)
 
 ## The Summary of Career Sol #1:
 
