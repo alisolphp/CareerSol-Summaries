@@ -1,3 +1,5 @@
+[< Back to Main Repository](https://github.com/username/repository)
+
 ## The Summary of Career Sol #1:
 
 ---
