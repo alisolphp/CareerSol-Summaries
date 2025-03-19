@@ -1,5 +1,5 @@
 # CareerSol-Summaries
-AI Generated Career Sol Sessions Summaries Using Google Meet Transcriptions.
+AI Generated Career Sol Sessions Summaries Using Google Meet Transcripts.
 
 # Sessions
 - **Session 1:**
